@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Gaurav Rai 👋
+
+##Thank you for dropping in. Let me share a bit about who I am...
 
 <!--
 **raiigauravv/raiigauravv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
