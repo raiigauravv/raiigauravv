@@ -16,8 +16,8 @@ Currently, I am furthering my education by pursuing a Master's in Information Sy
 
 # Projects 🚀
 These are the few projects I have worked on...
-- Movie Recommendation System
-- Fake News Prediction
+- [Movie Recommendation System ](https://github.com/raiigauravv/Movie-Recommendation-System)
+- [Fake News Prediction]([url](https://github.com/raiigauravv/Fake-News-Prediction))
 
 # Education 🎓
 - Northeastern University - Master of Science in Information Systems (Expected May 2025)
