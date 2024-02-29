@@ -26,8 +26,14 @@ These are the few projects I have worked on...
 # Hobbies & Interests 🎭
 - Football and Cricket ⚽️🏏
 - Gyming and Video Gaming 🏋🏻🕹️
-- Travelling ✈️- 
-- Exploring new cafes ☕️  
+- Travelling ✈️
+- Exploring new cafes ☕️
+
+# Socials 📲
+- [Linkedin]([url](https://www.linkedin.com/in/gauravvraii/))
+- [Instagram]([url](https://www.instagram.com/gauravvraii))
+- [Twitter]([url](https://twitter.com/gauravvraii))
+- [Facebook]([url](https://www.facebook.com/gaurav.rai.50596/))
 
 
 
