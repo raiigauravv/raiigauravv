@@ -33,9 +33,6 @@ These are the few projects I have worked on...
 In case you'd like to connect...
  - [Linkedin](https://www.linkedin.com/in/gauravvraii/)
  - [Twitter](https://twitter.com/gauravvraii)
-
-Thank you!
-
 <!--
 **raiigauravv/raiigauravv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
