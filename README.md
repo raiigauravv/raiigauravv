@@ -30,10 +30,10 @@ These are the few projects I have worked on...
 - Exploring new cafes ☕️
 
 # Socials 📲
-- [Linkedin]([url](https://www.linkedin.com/in/gauravvraii/))
-- [Instagram]([url](https://www.instagram.com/gauravvraii))
-- [Twitter]([url](https://twitter.com/gauravvraii))
-- [Facebook]([url](https://www.facebook.com/gaurav.rai.50596/))
+- [Linkedin](https://www.linkedin.com/in/gauravvraii/)
+- [Instagram](https://www.instagram.com/gauravvraii)
+- [Twitter](https://twitter.com/gauravvraii)
+- [Facebook](https://www.facebook.com/gaurav.rai.50596/)
 
 
 
