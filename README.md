@@ -29,11 +29,11 @@ These are the few projects I have worked on...
 - Travelling ✈️
 - Exploring new cafes ☕️
 
-# Socials 📲
-- [Linkedin](https://www.linkedin.com/in/gauravvraii/)
-- [Instagram](https://www.instagram.com/gauravvraii)
-- [Twitter](https://twitter.com/gauravvraii)
-- [Facebook](https://www.facebook.com/gaurav.rai.50596/)
+[comment]: <> # Socials 📲
+[comment]: <> - [Linkedin](https://www.linkedin.com/in/gauravvraii/)
+[comment]: <> - [Instagram](https://www.instagram.com/gauravvraii)
+[comment]: <> - [Twitter](https://twitter.com/gauravvraii)
+[comment]: <> - [Facebook](https://www.facebook.com/gaurav.rai.50596/)
 
 
 
