@@ -1,6 +1,6 @@
-### Hi there, I'm Gaurav Rai 👋
+## Hi there, I'm Gaurav Rai 👋
 
-## Thank you for dropping in. Let me share a bit about who I am...
+### Thank you for dropping in. Let me share a bit about who I am...
 
 I'm a passionate Data Scientist with a solid foundation in Computer Science and Technology, I specialize in building predictive and analytical models using Machine Learning and Python libraries. I completed my undergraduate studies at the University of Mumbai, where I was exposed to programming languages like Java and Python. 
 
