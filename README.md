@@ -13,6 +13,16 @@ Currently, I am furthering my education by pursuing a Master's in Information Sy
 - Technologies: NetBeans, Docker, Anaconda, Jupyter Notebook, HTML5, CSS3, Git & Github
 - Databases: Microsoft SQL Server, MySQL, MySQL Workbench, Oracle SQL
 - Data Analysis and Visualization: Advanced Excel, Basic, Word, PowerPoint, Power BI, Tableau, Looker Studio
+
+# Projects 🚀
+These are the few projects I have worked on...
+- Movie Recommendation System
+- Fake News Prediction
+
+# Education 🎓
+- Northeastern University - Master of Science in Information Systems (Expected May 2025)
+- University of Mumbai - Bachelor of Engineering in Computer Engineering (2017-2020)
+
 <!--
 **raiigauravv/raiigauravv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
