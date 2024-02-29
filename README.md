@@ -29,13 +29,12 @@ These are the few projects I have worked on...
 - Travelling ✈️
 - Exploring new cafes ☕️
 
-[comment]: <> # Socials 📲
-[comment]: <> - [Linkedin](https://www.linkedin.com/in/gauravvraii/)
-[comment]: <> - [Instagram](https://www.instagram.com/gauravvraii)
-[comment]: <> - [Twitter](https://twitter.com/gauravvraii)
-[comment]: <> - [Facebook](https://www.facebook.com/gaurav.rai.50596/)
+# Socials 📲
+In case you'd like to connect...
+ - [Linkedin](https://www.linkedin.com/in/gauravvraii/)
+ - [Twitter](https://twitter.com/gauravvraii)
 
-
+Thank you!
 
 <!--
 **raiigauravv/raiigauravv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,4 +49,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Socials 📲
+ - [Linkedin](https://www.linkedin.com/in/gauravvraii/)
+ - [Instagram](https://www.instagram.com/gauravvraii)
+ - [Twitter](https://twitter.com/gauravvraii)
+ - [Facebook](https://www.facebook.com/gaurav.rai.50596/)
 -->
