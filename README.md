@@ -23,6 +23,14 @@ These are the few projects I have worked on...
 - Northeastern University - Master of Science in Information Systems (Expected May 2025)
 - University of Mumbai - Bachelor of Engineering in Computer Engineering (2017-2020)
 
+# Hobbies & Interests 🎭
+- Football and Cricket ⚽️🏏
+- Gyming and Video Gaming 🏋🏻🕹️
+- Travelling ✈️- 
+- Exploring new cafes ☕️  
+
+
+
 <!--
 **raiigauravv/raiigauravv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
