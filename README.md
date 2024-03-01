@@ -19,6 +19,9 @@ These are the few projects I have worked on...
 - [Movie Recommendation System ](https://github.com/raiigauravv/Movie-Recommendation-System)
 - [Fake News Prediction](https://github.com/raiigauravv/Fake-News-Prediction)
 
+Projects I'm currently working on...
+- Recommendation System for Online Learning Platforms using AWS
+
 # Education 🎓
 - Northeastern University - Master of Science in Information Systems (Expected May 2025)
 - University of Mumbai - Bachelor of Engineering in Computer Engineering (2017-2020)
