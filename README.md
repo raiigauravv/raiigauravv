@@ -1,4 +1,4 @@
-## Hi there, I'm Gaurav Rai 👋
+## Hi there, I'm Gauravv 👋
 
 ### Thanks for stopping by! Here's a bit about me...
 
